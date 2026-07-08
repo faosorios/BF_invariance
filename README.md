@@ -9,12 +9,13 @@ Supplementary material to **An invariant modification of the gradient test** by 
 Code written by: Federico Crudu, with contributions of Felipe Osorio
 
 Code tested on:
+- R under development (2025-02-20 r87772) version 4.5.0, running Linux Mint 22.3 (64 bits)
 - R version 4.1.2, running Linux Ubuntu 22.04.1 (64 bits server)
 - R under development (2022-01-27 r81578), running Linux Zorin OS 16.2 (64 bits)
 
 Attached base packages: stats, graphics, grDevices, utils, datasets, methods, Autoloads, base
 
-Other attached packages: alabama_2015.3-1, numDeriv_2016.8-1.1
+Other attached packages: alabama_2025.1.0, numDeriv_2016.8-1.1
 
 CONTENTS:
 - simul/invar_LW.R: R function to compute the empirical sizes using Wald, bilinear form, Lagrange multiplier and distance test statistics.
