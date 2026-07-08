@@ -1,7 +1,7 @@
 # An invariant modification of the gradient test
 
 [![R](https://img.shields.io/badge/Made%20with-R%20under%20development-success)](https://cran.r-project.org/)
-[![alabama](https://img.shields.io/badge/alabama-2015.3--1-red)](https://cran.r-project.org/package=alabama)
+[![alabama](https://img.shields.io/badge/alabama-2025.1.0-red)](https://cran.r-project.org/package=alabama)
 [![numDeriv](https://img.shields.io/badge/numDeriv-2016.8--1.1-red)](https://cran.r-project.org/package=numDeriv)
 
 Supplementary material to **An invariant modification of the gradient test** by Angelo Garate, Felipe Osorio and Federico Crudu
