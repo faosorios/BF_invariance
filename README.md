@@ -17,5 +17,5 @@ Attached base packages: stats, graphics, grDevices, utils, datasets, methods, Au
 Other attached packages: alabama_2015.3-1, numDeriv_2016.8-1.1
 
 CONTENTS:
-- code/invar_LW.R: R function to compute the empirical sizes using Wald, bilinear form, Lagrange multiplier and distance test statistics.
-- code/simulation.R: R commands to perform the simulation study described at Section 4 from manuscript.
+- simul/invar_LW.R: R function to compute the empirical sizes using Wald, bilinear form, Lagrange multiplier and distance test statistics.
+- simul/simulation.R: R commands to perform the simulation study described at Section 4 from manuscript.
